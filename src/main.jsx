@@ -4,7 +4,6 @@ import App from './App.jsx'
 
 
 
-// import app from "../fireBase.config.js"
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <App />
